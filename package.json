@@ -1,0 +1,24 @@
+{
+  "name": "chisom-ai",
+  "version": "1.0.0",
+  "description": "AI Agent Builder - Transform natural language into production-ready web applications",
+  "scripts": {
+    "lint": "eslint .",
+    "format": "prettier --write \"**/*.{js,jsx,ts,tsx,json,md}\""
+  },
+  "keywords": [
+    "ai",
+    "code-generation",
+    "web-development",
+    "chainlit",
+    "langchain"
+  ],
+  "author": "Chisom.ai Team",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^8.57.0",
+    "prettier": "^3.2.5",
+    "@typescript-eslint/eslint-plugin": "^6.21.0",
+    "@typescript-eslint/parser": "^6.21.0"
+  }
+}
